@@ -81,7 +81,6 @@ The dataset was checked using Power Query's column quality features. The inspect
 
 The following DAX measures were created for the dashboard.
 
-### Total Sales
 
 ```DAX
 
